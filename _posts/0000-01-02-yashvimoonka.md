@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> Hmm maybe markdown can help with blogging
 Use the left arrow to go back!
